@@ -89,3 +89,5 @@ Write the commands for the following directory changes:
 
 ???
 
+
+<a href='https://learn.co/lessons/hs-cli-world-travel-todo' data-visibility='hidden'>Learn.co resource</a>
